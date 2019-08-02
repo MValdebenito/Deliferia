@@ -1,0 +1,15 @@
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\WcfService1.dll.config
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\WcfService1.dll
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\WcfService1.pdb
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\Biblioteca.dll
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\EntityFramework.dll
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\Biblioteca.pdb
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\Biblioteca.dll.config
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\EntityFramework.xml
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\mayra\source\repos\Solución Deliferia\WcfService1\obj\Debug\WcfService1.pdb

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6bd3e0434e3842d4846a991119fef013" Name="Diagram1">
+        <EntityTypeShape EntityType="DeliferiaModel.COMPRA" Width="1.5" PointX="3" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.COMUNA" Width="1.5" PointX="1.5" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.DETALLE_COMPRA" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.PRODUCTO" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.PRODUCTO_PROVEEDOR" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.PROVEEDOR" Width="1.5" PointX="3" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.TIPO_PRODUCTO" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.TIPO_USUARIO" Width="1.5" PointX="1.5" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.UNIDAD_DE_MEDIDA" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliferiaModel.USUARIO" Width="1.5" PointX="0.75" PointY="12.125" IsExpanded="true" />
+        <AssociationConnector Association="DeliferiaModel.FK_COMPRA_USUARIO" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliferiaModel.FK_DETALLE_COMPRA_COMPRA" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliferiaModel.FK_USUARIO_COMUNA" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliferiaModel.FK_DETALLE_COMPRA_PRODUCTO" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliferiaModel.FK_PRODUCTO_PROVEEDOR_PRODUCTO" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliferiaModel.FK_PRODUCTO_TIPO_PRODUCTO" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliferiaModel.FK_PRODUCTO_PROVEEDOR_PROVEEDOR" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliferiaModel.FK_USUARIO_TIPO_USUARIO" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliferiaModel.FK_PRODUCTO_PROVEEDOR_UNIDAD_DE_MEDIDA" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,6 @@
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca de negocio\bin\Debug\Biblioteca de negocio.dll
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca de negocio\bin\Debug\Biblioteca de negocio.pdb
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca de negocio\obj\Debug\Biblioteca de negocio.csprojAssemblyReference.cache
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca de negocio\obj\Debug\Biblioteca de negocio.csproj.CoreCompileInputs.cache
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca de negocio\obj\Debug\Biblioteca de negocio.dll
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca de negocio\obj\Debug\Biblioteca de negocio.pdb

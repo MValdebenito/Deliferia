@@ -1,0 +1,12 @@
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\bin\Debug\Biblioteca.dll.config
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\bin\Debug\EntityFramework.dll
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\bin\Debug\EntityFramework.xml
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\mayra\source\repos\Solución Deliferia\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
